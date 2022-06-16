@@ -1,4 +1,4 @@
---½¨Á¢¹ÍÔ±±í
+--å»ºç«‹é›‡å‘˜è¡¨
 CREATE TABLE `employee` (
   `empId` char(10) NOT NULL,
   `empName` varchar(45) NOT NULL,
@@ -6,5 +6,5 @@ CREATE TABLE `employee` (
   `updateDateTime` datetime DEFAULT NULL,
   `updateNumber` int DEFAULT NULL,
   PRIMARY KEY (`empId`)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci COMMENT='Ô±¹¤±í'
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci COMMENT='å‘˜å·¥è¡¨'
 
