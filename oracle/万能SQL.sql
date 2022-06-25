@@ -1,0 +1,12 @@
+-- COUNT(*)
+SELECT
+    * 
+FROM
+    TST20_BAT.SMTW5070 
+WHERE
+    0 = 0 
+    AND ROWNUM <= 50 
+--     AND SHOHIN_CD = '00000670' 
+-- ORDER BY
+--     SYSUPD_YMD DESC
+--     , SYSUPD_HMS DESC

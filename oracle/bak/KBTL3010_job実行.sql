@@ -1,0 +1,8 @@
+SELECT
+    * 
+FROM
+    KBTL3010 
+WHERE
+    SHRSTA_YMD = '20220401' 
+    AND BATCH_MSG_NAIYO = 'ˆÙíI—¹'
+

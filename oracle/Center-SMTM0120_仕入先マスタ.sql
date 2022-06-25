@@ -1,0 +1,9 @@
+SELECT
+    * 
+FROM
+    SMTM0120 
+WHERE
+    0 = 0 
+    AND SMTM0120.RONRI_D_FLG = '0' 
+    AND SMTM0120.SIRSKI_CD = '913012'
+

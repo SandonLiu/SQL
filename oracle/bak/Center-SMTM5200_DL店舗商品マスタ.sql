@@ -1,0 +1,13 @@
+--店舗商品マスタ COUNT(*)
+SELECT
+    *
+FROM
+    TST20_BAT.SMTM5200 
+WHERE
+    0 = 0 
+--     AND ROWNUM <= 50 
+    AND TENP_CD = '113084' 
+    AND SHOHIN_CD = '00123456'
+ORDER BY
+    SHOHIN_CD
+
